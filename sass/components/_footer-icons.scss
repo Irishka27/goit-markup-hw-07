@@ -1,0 +1,33 @@
+.footer-icon p,
+.footer-form p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #fff;
+}
+.footer-wrap {
+  display: flex;
+  align-items: baseline;
+}
+.footer-icon {
+  margin-left: 70px;
+}
+.socials-link-footer:focus,
+.socials-link-footer:hover {
+  background-color: var(--accent-color);
+}
+.socials-item-footer {
+  margin-right: 10px;
+}
+
+.footer-socials {
+  margin-left: -10px;
+  margin-top: 22px;
+}
+.socials-icon-footer {
+  fill: #fff;
+}

@@ -1,0 +1,35 @@
+.logo-white {
+  color: #ffffff;
+}
+.footer-item {
+  margin-bottom: 9px;
+}
+.footer-all {
+  background-color: #2f303a;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.address {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+.footer-list {
+  padding-top: 20px;
+}
+.footer-contacts {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+}

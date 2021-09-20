@@ -1,4 +1,16 @@
 @import './utils/variables';
-body {
-  background-color: black;
-}
+@import './utils/hidden';
+@import './base/reset';
+@import './base/container';
+@import './components/header';
+@import './components/hero';
+@import './components/hang';
+@import './components/occupation';
+@import './components/our-team';
+@import './components/custumers';
+@import './components/footer';
+@import './components/portfolio';
+@import './components/icons';
+@import './components/footer-icons';
+@import './components/footer-form';
+@import './components/backdrop';
